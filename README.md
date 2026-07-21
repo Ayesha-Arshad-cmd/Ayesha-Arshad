@@ -11,4 +11,4 @@
 ![Ayesha's GitHub stats](https://ayesha-arshad.vercel.app/api?username=Ayesha-Arshad-cmd&show_icons=true&theme=radial)
 
 <!-- Top Languages Card (Using your private server) -->
-![Ayesha's Top Langs](https://YOUR_VERCEL_DOMAIN_HERE.vercel.app/api/top-langs/?username=Ayesha-Arshad-cmd&layout=compact&theme=radial)
+![Ayesha's Top Langs](https://ayesha-arshad.vercel.app/api/top-langs/?username=Ayesha-Arshad-cmd&layout=compact&theme=radial)
