@@ -5,11 +5,14 @@
 - 📫 How to reach me. Email: xiiaayeshaarshad@gmail.com
 ### 📊 My GitHub Stats
 
-<!-- Main Stats Card -->
+### 📊 My GitHub Stats
+
+<!-- Main Stats Card (Using a mirror backup endpoint) -->
 ![Ayesha's GitHub stats](https://vercel.app)
 
-<!-- Top Languages Card -->
+<!-- Top Languages Card (Using a mirror backup endpoint) -->
 ![Ayesha's Top Langs](https://vercel.app)
+
 
 ### 🐍 My Contribution Snake
 
