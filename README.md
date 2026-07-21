@@ -3,14 +3,12 @@
 - 🌱 I’m currently enrolled in Bahria University Software Engineering Department.
 - 💞️ I’m looking to collaborate with professionals and companies to learn and achieve in the software line of work.
 - 📫 How to reach me. Email: xiiaayeshaarshad@gmail.com
-### 📊 My GitHub Stats
+### 🔥 My GitHub Streaks & Stats
 
-### 📊 My GitHub Stats
+<!-- Streak Card -->
+![Ayesha's Streak](https://herokuapp.com)
 
-<!-- Main Stats Card (Using a mirror backup endpoint) -->
-![Ayesha's GitHub stats](https://vercel.app)
-
-<!-- Top Languages Card (Using a mirror backup endpoint) -->
+<!-- Alternative Top Langs Card -->
 ![Ayesha's Top Langs](https://vercel.app)
 
 
