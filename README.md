@@ -3,22 +3,12 @@
 - 🌱 I’m currently enrolled in Bahria University Software Engineering Department.
 - 💞️ I’m looking to collaborate with professionals and companies to learn and achieve in the software line of work.
 - 📫 How to reach me. Email: xiiaayeshaarshad@gmail.com
+
 ### 🔥 My GitHub Streaks & Stats
+### 📊 My GitHub Stats
 
-<!-- Streak Card -->
-![Ayesha's Streak](https://herokuapp.com)
+<!-- Main Stats Card (Using your private server) -->
+![Ayesha's GitHub stats](https://ayesha-arshad.vercel.app/api?username=Ayesha-Arshad-cmd&show_icons=true&theme=radial)
 
-<!-- Alternative Top Langs Card -->
-![Ayesha's Top Langs](https://vercel.app)
-
-
-### 🐍 My Contribution Snake
-
-![GitHub Contribution Grid Snake](https://githubusercontent.com)
-
-
-<!---
-AyeshaYNTHV/AyeshaYNTHV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Ayesha's GitHub stats](https://vercel.app)
+<!-- Top Languages Card (Using your private server) -->
+![Ayesha's Top Langs](https://YOUR_VERCEL_DOMAIN_HERE.vercel.app/api/top-langs/?username=Ayesha-Arshad-cmd&layout=compact&theme=radial)
