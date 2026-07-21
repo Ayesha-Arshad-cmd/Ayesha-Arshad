@@ -3,9 +3,14 @@
 - 🌱 I’m currently enrolled in Bahria University Software Engineering Department.
 - 💞️ I’m looking to collaborate with professionals and companies to learn and achieve in the software line of work.
 - 📫 How to reach me. Email: xiiaayeshaarshad@gmail.com
-### 🐍 My Contribution Snake
+### 📊 My GitHub Stats
 
-![GitHub Contribution Grid Snake](https://githubusercontent.com)
+<!-- Main Stats Card -->
+![Ayesha's GitHub stats](https://vercel.app)
+
+<!-- Top Languages Card -->
+![Ayesha's Top Langs](https://vercel.app)
+
 
 <!---
 AyeshaYNTHV/AyeshaYNTHV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
